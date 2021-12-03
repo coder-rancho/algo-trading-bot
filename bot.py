@@ -1,11 +1,12 @@
 import telegram.ext
 from nsetools import Nse
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 from os import environ
 
 nse = Nse()
 
-load_dotenv()
+# load_dotenv()
+
 TOKEN = environ.get('TOKEN')
 
 def start(update, context):

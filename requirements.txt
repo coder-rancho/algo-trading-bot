@@ -1,3 +1,3 @@
-python-telegram-bot
-nsetools
-os
+nsetools==1.0.11
+python_telegram_bot==13.8.1
+telegram==0.0.1

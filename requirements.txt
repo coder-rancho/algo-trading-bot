@@ -1,0 +1,4 @@
+python-telegram-bot
+nsetools
+dotenv
+os
